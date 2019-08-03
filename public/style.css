@@ -1,0 +1,28 @@
+#bod{
+    background-color: #ffca63;
+}
+#bur{
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+}
+#title{
+    color: red;
+    font-size: 40px;
+    display: block;
+    margin: 0 auto;
+    font-weight: 200;
+    margin-bottom: 10px;
+}
+#inp{
+    margin-top: 10px;
+    width: 400px;
+    margin: 0 auto;
+}
+#des{
+    margin: 0 auto;
+}
+#formrow{
+    margin-top: 20px;
+}
